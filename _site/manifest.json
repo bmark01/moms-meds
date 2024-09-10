@@ -1,0 +1,75 @@
+{
+  "source_base_path": "/Users/brucemark/moms-meds",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "brucemark/moms-meds/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "brucemark/moms-meds/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "brucemark/moms-meds/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "brucemark/moms-meds/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "brucemark/moms-meds/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "brucemark/moms-meds/toc.html"
+        },
+        ".json": {
+          "relative_path": "brucemark/moms-meds/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
