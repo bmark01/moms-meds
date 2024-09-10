@@ -1,17 +1,7 @@
 {
-  "brucemark/moms-meds/getting-started.html": {
-    "href": "brucemark/moms-meds/getting-started.html",
-    "title": "Getting Started | moms-meds",
-    "keywords": "Getting Started"
-  },
-  "brucemark/moms-meds/introduction.html": {
-    "href": "brucemark/moms-meds/introduction.html",
-    "title": "Introduction | moms-meds",
-    "keywords": "Introduction"
-  },
   "index.html": {
     "href": "index.html",
-    "title": "This is the HOMEPAGE. | moms-meds",
-    "keywords": "This is the HOMEPAGE. Refer to Markdown for how to write markdown files. Quick Start Notes: Add images to the images folder if the file is referencing an image."
+    "title": "Moms Meds | moms-meds",
+    "keywords": "Moms Meds Time Medications Morning Aspirin, Atorvastatin, D3, Multi Vitamin, Donazapil, Memantine, Q10, Tylenol, Tums 10:00 AM Ibuprofen Lunch 1/2 Tylenol 2:00 PM Ibuprofen Supper Aspirin, D3, Memantine, 1/2 Tylenol Bed Time Donazapil, Tylenol, Ibuprofen, Tums"
   }
 }

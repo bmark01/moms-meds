@@ -12,39 +12,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "brucemark/moms-meds/getting-started.md",
-      "output": {
-        ".html": {
-          "relative_path": "brucemark/moms-meds/getting-started.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "brucemark/moms-meds/introduction.md",
-      "output": {
-        ".html": {
-          "relative_path": "brucemark/moms-meds/introduction.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "brucemark/moms-meds/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "brucemark/moms-meds/toc.html"
-        },
-        ".json": {
-          "relative_path": "brucemark/moms-meds/toc.json"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "index.md",
       "output": {
         ".html": {
