@@ -8,3 +8,4 @@
 | **2:00 PM**    | Ibuprofen                                              |
 | **Supper**     | Aspirin, D3, Memantine, 1/2 Tylenol                    |
 | **Bed Time**   | Donazapil, Tylenol, Ibuprofen, Tums                    |
+| **As Needed**  | Oxycodone 1/2 tablet                                   |
