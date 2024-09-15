@@ -13,15 +13,15 @@
 |            | Tylenol         |           |                                         |
 |            | Tums            |           |                                         |
 | **10:00 AM**|                |           | Wiggle Toes                            |
-|            | Ibuprofen       |           | Flex and Extend Knee 15 times          |
+|            |               |           | Flex and Extend Knee 15 times          |
 |            |                 |           | Hip - small hip circles in both directions 15 times |
 | **Lunch**  |                 |           | Wiggle Toes                            |
-|            | 1/2 Tylenol     |           | Flex and Extend Knee 15 times          |
+|            |     |           | Flex and Extend Knee 15 times          |
 |            |                 |           | Hip - small hip circles in both directions 15 times |
 | **2:00 PM**|                 |           | Wiggle Toes                            |
-|            | Ibuprofen       |           | Flex and Extend Knee 15 times          |
+|            |       |           | Flex and Extend Knee 15 times          |
 |            |                 |           | Hip - small hip circles in both directions 15 times |
-| **Supper** | Aspirin         |           | Wiggle Toes                            |
+| **Supper** |       |           | Wiggle Toes                            |
 |            | D3             |           | Flex and Extend Knee 15 times          |
 |            | Memantine       |           | Hip - small hip circles in both directions 15 times |
 |            | 1/2 Tylenol     |           |                                         |
